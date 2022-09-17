@@ -1,5 +1,9 @@
 # MVP: Multi-task Supervised Pre-training for Natural Language Generation
 
+<p>
+<a href="https://console.tiyaro.ai/explore/RUCAIBox-mvp-3259358"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
+
 This repository is the official implementation of our paper [https://arxiv.org/abs/2206.12131](https://arxiv.org/abs/2206.12131).
 
 ## Overview
